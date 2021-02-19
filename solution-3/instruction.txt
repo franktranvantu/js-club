@@ -1,2 +1,1 @@
-In the 'bikeBell' JavaScript function, change the reference to the audio element id to 'bikeBell' as well, so it picks up the new sound.
-Hint: getElementById('writeTheNewIdHere')
+Edit the CSS stylesheet to change links to have a padding of 10px.

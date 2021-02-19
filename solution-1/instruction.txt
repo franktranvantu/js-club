@@ -1,2 +1,1 @@
-Let’s change the car sound to a bike sound.
-Start by changing the JavaScript function name from startCar to bikeBell.
+Edit the CSS stylesheet to change the html background color to #99E6FF.

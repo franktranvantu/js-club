@@ -1,6 +1,6 @@
 /* Background Color */
 html {
-	background:#3D475F;
+	background: #99E6FF;
 }
 
 
@@ -18,7 +18,7 @@ img {
 
 .car { 
   display:block;
-  margin: 300px 0 100px 0;
+  margin: 40px auto;
   padding: 0;
 }
 
