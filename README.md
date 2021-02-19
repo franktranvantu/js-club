@@ -1,3 +1,1 @@
-In the Car Sounds project, you learn how to edit pre-written HTML, CSS, and JavaScript code to add functionality to a web page. 
-
-Some features you will use are buttons, audio tags, and JavaScript events.
+In this section you are going to be learning about some new features in HTML and how to upload a picture.
