@@ -1,0 +1,2 @@
+In the 'bikeBell' JavaScript function, change the reference to the audio element id to 'bikeBell' as well, so it picks up the new sound.
+Hint: getElementById('writeTheNewIdHere')

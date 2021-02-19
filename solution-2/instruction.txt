@@ -1,1 +1,1 @@
-Edit the HTML document to change the button image to "images/bikeLock.png".
+Next, let's put in the new audio file, by changing the id attribute of the audio tag to "bikeBell" and the src to "sounds/bikeBell.mp3".

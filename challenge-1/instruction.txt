@@ -1,1 +1,2 @@
-Edit the HTML document to change the car image tag to "images/bike.png".
+Let’s change the car sound to a bike sound.
+Start by changing the JavaScript function name from startCar to bikeBell.
