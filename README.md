@@ -1,1 +1,0 @@
-In this section you are going to be learning about some new features in HTML and how to upload a picture.

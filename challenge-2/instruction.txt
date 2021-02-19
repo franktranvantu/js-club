@@ -1,0 +1,1 @@
+Edit the HTML document to change the button image to "images/bikeLock.png".
